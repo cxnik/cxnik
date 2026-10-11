@@ -1,5 +1,5 @@
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://www.shieldcn.dev/views/user/connectxnikhilkumarsingh.svg?variant=outline&size=sm" /><img alt="Profile Views" src="https://www.shieldcn.dev/views/user/connectxnikhilkumarsingh.svg?variant=outline&size=sm&mode=light" /></picture>
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://www.shieldcn.dev/github/user-stars/connectxnikhilkumarsingh.svg?variant=outline&size=sm" /><img alt="repo views" src="https://www.shieldcn.dev/github/user-stars/connectxnikhilkumarsingh.svg?variant=outline&size=sm&mode=light" /></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://www.shieldcn.dev/views/user/cxnikhil.svg?variant=outline&size=sm" /><img alt="Profile Views" src="https://www.shieldcn.dev/views/user/cxnikhil.svg?variant=outline&size=sm&mode=light" /></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://www.shieldcn.dev/github/user-stars/cxnikhil.svg?variant=outline&size=sm" /><img alt="repo views" src="https://www.shieldcn.dev/github/user-stars/cxnikhil.svg?variant=outline&size=sm&mode=light" /></picture>
 
 Enjoying building web applications that are **maintainable and less chaotic than JavaScript usually wants them to be**.
 
